@@ -2,6 +2,10 @@ package com.atguigu.chapter02
 
 import org.apache.flink.streaming.api.scala._
 
+/**
+  ÓÐ½çÁ÷
+ **/
+
 object BoundedStreamWordCount {
   def main(args: Array[String]): Unit = {
 
